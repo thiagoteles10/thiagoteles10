@@ -16,7 +16,8 @@
 
 ####  🗺 Conecte-se comigo através das seguintes Redes Sociais:
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sXd9a2pF)
+[![Discord](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thiago-teles-37112a22)
 
 ### 🛠️ Tecnologias e ferramentas que eu uso:
 
