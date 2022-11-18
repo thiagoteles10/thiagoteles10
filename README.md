@@ -18,6 +18,12 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
+### 🛠️ Tecnologias e ferramentas que eu uso:
+
+<div>
+   <img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ </div>
+
 <!--
 **thiagoteles10/thiagoteles10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
