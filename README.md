@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá a Todos 👋
+
+### Me chamo Thiago Teles
+
+### Formado em Sistemas de Informação ( Universidade Federal Rural De Pernambuco)
+
+### Estudante de Análise de Dados com Python
+
+###
 
 <!--
 **thiagoteles10/thiagoteles10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
