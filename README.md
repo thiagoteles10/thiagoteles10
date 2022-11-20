@@ -6,7 +6,7 @@
 
 #### Estudante de Análise de Dados com Python
 
-#### Objetivo: Resolver os mais variados problemas com foco na utilização da linguagem Python.🐍
+#### Objetivo: Usar a linguagem Python 🐍 com foco em Data Science para resolução de problemas.
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoteles10&show_icons=true&theme=tokyonight"/>
