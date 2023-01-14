@@ -6,6 +6,8 @@
 
 #### Estudante de Análise de Dados com Python
 
+#### Atualmente estou aprendendo Machine Learning e IA com foco em Data Science
+
 #### Objetivo: Usar a linguagem Python 🐍 com foco em Data Science para resolução de problemas.
 
 <div>
